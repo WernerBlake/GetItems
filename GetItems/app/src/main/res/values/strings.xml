@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetItems</string>
+    <string name="title_itemmodel_list">Items</string>
+    <string name="title_itemmodel_detail">ItemModel Detail</string>
+    <string name="HiString">Hi</string>
+    <string name="Unknown">Unknown</string>
+</resources>
